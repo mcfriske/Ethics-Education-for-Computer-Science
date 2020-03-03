@@ -24,11 +24,11 @@ Ad: Dirty mouth? Clean it up with new Orbit Raspberry Mint. For a good clean fee
 ### Problem 2 (suggested points: 24 (30 without reflection))
 *Scenario*: By combining data from a marketing platform with the results from personality tests that users have completed, we know that people with at least 500 Facebook friends are likely to be extroverts, and people with less than 500 friends are likely to be introverts. Based on analysis of user-uploaded photos using computer-vision algorithms, we also know that people who are extroverts are more likely to have many photos of dogs, and introverts are more likely to have many photos of cats. Market research has shown that dog people are highly likely to be positively influenced by advertisements for any product that includes dogs, and similar for cat people and cats.
  
-*Task*: Given an integer numberOfFriends, which represents how many Facebook friends a user has, write a function that does the following:
+*Task*: Given an integer `number_of_friends`, which represents how many Facebook friends a user has, write a function that does the following:
 - if the user has 500 or more friends, print advertisement text that includes a dog. Your text must start with `"Ad with Dog:  "`.
 - if the user has less than 500 friends, print advertisement text that includes a cat. Your text must start with `"Ad with Cat:  ".
  
-For example, given `numberOfFriends = 358`, your function might print:
+For example, given `number_of_friends = 358`, your function might print:
 ```
 Ad with Cat:  \*cat using a smartphone on Catdr, Tindr for cats\* Tired of swiping? Join eHarmony today and find your purrrfect companion.
 ```
@@ -43,7 +43,7 @@ Ad with Cat:  \*cat using a smartphone on Catdr, Tindr for cats\* Tired of swipi
 
 For example, given `zipcode = 53566` and `age = 25`, your function might print:
 ```
-Tourist Ad:  Come visit Boulder, where everything is bolder.
+Tourism Ad:  Come visit Boulder, where everything is bolder.
 ```
 
 ### Product 4 (suggested points: 16 (20 without reflection), note: example profile can be changed)
