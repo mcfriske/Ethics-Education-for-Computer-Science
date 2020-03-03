@@ -30,7 +30,7 @@ Ad: Dirty mouth? Clean it up with new Orbit Raspberry Mint. For a good clean fee
  
 For example, given `number_of_friends = 358`, your function might print:
 ```
-Ad with Cat:  \*cat using a smartphone on Catdr, Tindr for cats\* Tired of swiping? Join eHarmony today and find your purrrfect companion.
+Ad with Cat:  *cat using a smartphone on Catdr, Tindr for cats* Tired of swiping? Join eHarmony today and find your purrrfect companion.
 ```
 
 ### Problem 3 (suggested points: 16 (20 without reflection), note: location can be changed to your area)
