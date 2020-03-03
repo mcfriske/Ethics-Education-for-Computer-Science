@@ -1,12 +1,12 @@
 # If/Else Advertisement Assignment
 
 ## Note for Instructors
-
+Within there assignment there are various examples or specific locations used. **Example text and locations** may be changed to create assignments that are more closely related to the space in which the assignment is being assigned.
 
 ## Overview
 For this homework, you will be creating functions that will output personalized ads **using if/elif/else.** Each problem will present a short scenario and task describing what type of personalized ad should be served. There will be a few guidelines for the type of ad you want to print to the screen, but **you have freedom on the actual text of the advertisment.** Please read the instructions carefully and come to office hours if you have any questions. 
 
-*You will be graded for effort as well as correctness (i.e. one-word ad text will not receive full credit).* Additionally, for problems 1, 2, and 3 you are given some specific decisions to make---you may include additional decisions underneath those using information given if you would like. In Problem 4, you make all the decisions.
+*You will be graded for effort as well as correctness (i.e. one-word ad text will not receive full credit).* Additionally, for problems 1, 2, and 3 you are given some specific decisions to make&mdash;you may include additional decisions underneath those using information given if you would like. In Problem 4, you make all the decisions.
 
 ## Problems
 ### Problem 1, suggested points: 24 (30 without reflection)
